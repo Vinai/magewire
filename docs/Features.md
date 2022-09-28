@@ -51,7 +51,7 @@
 ## Best Practices
 1. Use the Magewire naming conventions and structures.
 2. Use Hydrators to manipulate data before or after a method gets called.
-3. Contribute or create an issue when you found bugs or sucurity issues.
+3. Contribute or create an issue when you found bugs or security issues.
 4. Keep components small and clean.
 5. Use the ```My/Module/Magewire/Component``` folder when you introduce a new component type.
 6. The ```$magewire``` component object is available in the template by default.
